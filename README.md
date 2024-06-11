@@ -32,6 +32,7 @@ Foi usada a aplicação web Gamma App para gerar uma apresentação a partir de 
 A apresentação gerada automaticamente pelo Gamma App conaseguiu captar com precisão o conceito apresentado, inferindo e acrescentando detalhes no documento final que trouxeram maior valor ao resultado. 
 
 [Acesse a apresentação em PDF](Guia%20virtual.pdf)
+
 [Acesse a apresentação em Power Point](Guia%20virtual.pptx)
 
 ## 💭 Reflexão (Opcional)
