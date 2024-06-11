@@ -31,7 +31,7 @@ Foi usada a aplicação web Gamma App para gerar uma apresentação a partir de 
 ## 🚀 Resultados
 A apresentação gerada automaticamente pelo Gamma App conaseguiu captar com precisão o conceito apresentado, inferindo e acrescentando detalhes no documento final que trouxeram maior valor ao resultado. 
 
-[Acesse a apresentação]()
+[Acesse a apresentação](Guia%20virtual.pdf)
 
 ## 💭 Reflexão (Opcional)
 Criar conteúdo ao mesmo tempo inovador e natural a ponto de ser recebido como uma produção 100% humana é um grande desafio. Por mais preparado que esteja, dificilmente um humado conseguirá reunir tanto conteúdo em tão pouco tempo para gerar algo no mesmo nível. Por outro lado, como validar se o conteúdo gerado pela IA é de fato válido e passível de uso sem que seja infringida alguma licença de uso da matéria orifinal usada no treinamento de seus modelos?
